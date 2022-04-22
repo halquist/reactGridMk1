@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(30, 40, 47);
+  color: white;
+}
+
+.mainDiv {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 2px;
+  padding: 4px 0px;
+
+}
